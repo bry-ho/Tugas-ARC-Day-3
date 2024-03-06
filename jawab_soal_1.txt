@@ -1,0 +1,3 @@
+Apa itu library axios?
+
+- Axios adalah sebuah library yang digunakan untuk mengirimkan permintaan (request) data melalui HTTP client yang berbasis promise dengan menggunakan node.js maupun browser. Fungsi utama Axios adalah memeriksa atau mengubah permintaan HTTP dari aplikasi ke server atau sebaliknya (misalnya mengambil dan mengirim data, membatalkan permintaan yang sedang berlangsung). Penggunaan Axios dapat membuat program tampak lebih sederhana karena dapat mengirim data dalam berbagai format seperti JSON dan juga mendukung metode requests seperti 'get', 'post', 'put', 'delete', dan sebagainya.

@@ -1,6 +1,6 @@
-import axios from 'axios';
+const axios = require('axios');
 
-const url = 'http://dog-api.kinduff.com';
+const url = 'https://animechan.xyz/api/quotes';
 
 axios.get(url)
   .then((response) => {
